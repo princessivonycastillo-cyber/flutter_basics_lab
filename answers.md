@@ -1,6 +1,6 @@
 
 ### GitHub repository link
-https://github.com/princessivonycastillo-cyber/flutter_basics_lab.git
+https://github.com/princessivonycastillo-cyber/flutter_basics_lab
 
 ### Last three build() called lines (Activity 2):
 build() called: 4 glasses
